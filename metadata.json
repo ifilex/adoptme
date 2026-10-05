@@ -1,0 +1,6 @@
+{
+  "name": "Adopt Me! Craft - Voxel Pet Simulator & Building",
+  "description": "Adopt Me! inspired pet breeding, needs care, trading, house building & riding system set in an interactive 3D Minecraft voxel multiplayer world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
